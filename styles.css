@@ -1,0 +1,16 @@
+body {
+  background-color: green;
+  font-family: verdana;
+  font-size: 121%;
+}
+h2{
+   color: white;
+}
+h3{
+  color: yellow;
+}
+
+p {
+  color: white;
+  font: 15px Georgia;
+}
